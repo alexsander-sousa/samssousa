@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Whassup? 👋
 
 <!--
 **samssousa/samssousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}" />
-
-<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/samssousa/samssousa" />
