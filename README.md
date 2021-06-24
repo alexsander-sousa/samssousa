@@ -1,10 +1,9 @@
-### Olá, como vai? <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30"></img>
-### Bem vindo ao meu perfil do github! 
+## Olá, como vai? <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30"></img>
+### Seja Bem vindo(a) a minha página! 
+
 ---
 
-## ⚡ Tecnologias
-
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
+### ⚡ Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -17,17 +16,14 @@
 
 ---
 
-## :mag: Onde me encontrar?
+### :mag: Onde me encontrar?
 
 [![Linkedin Badge](https://img.shields.io/badge/-alexsanderss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsanderss/)](https://www.linkedin.com/in/alexsanderss/)
 [![Gmail Badge](https://img.shields.io/badge/-sousa.alexsanderdasilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sousa.alexsanderdasilva@gmail.com)](mailto:sousa.alexsanderdasilva@gmail.com)
 
 ---  
 
-## 📈 Minhas estatísticas
+### 📈 Minhas estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samssousa&layout=compact&theme=graywhite&locale=pt-br)](https://github.com/samssousa/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samssousa&show_icons=true&theme=graywhite&hide_title=true&locale=pt-br)
-    
-
-
 
